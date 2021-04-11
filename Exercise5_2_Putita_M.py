@@ -1,4 +1,4 @@
 s = int(input("ระยะทาง(km)"))
-t = inr(input("ระยะเวลา(h)"))
+t = int(input("ระยะเวลา(h)"))
 v = s/t
 print(v, "km")
